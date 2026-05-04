@@ -12,6 +12,7 @@ Hotkey: CTRL + ALT + R
 Funzione: legge frequenza e modo tramite OmniRig.
 
 Hotkey: CTRL + ALT + L
+
 Funzione: Cambia la Lingua
 
 73 de IK1APW
@@ -26,9 +27,11 @@ The program announces in real time or on keyboard input.
 Requirement: OmniRig already installed and configured.
 
 Hotkey: CTRL + ALT + R
+
 Function: Reads frequency and mode via OmniRig.
 
 Hotkey: CTRL + ALT + L
+
 Function: Change Language
 
 
