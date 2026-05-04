@@ -10,6 +10,7 @@ Requisito: OmniRig già installato e configurato.
 
 Hotkey: CTRL + ALT + R
 Funzione: legge frequenza e modo tramite OmniRig.
+
 Hotkey: CTRL + ALT + L
 Funzione: Cambia la Lingua
 
@@ -26,6 +27,7 @@ Requirement: OmniRig already installed and configured.
 
 Hotkey: CTRL + ALT + R
 Function: Reads frequency and mode via OmniRig.
+
 Hotkey: CTRL + ALT + L
 Function: Change Language
 
